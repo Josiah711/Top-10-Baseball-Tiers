@@ -3,3 +3,13 @@ color: cornflowerblue;
 background-color:moccasin;
 text-align: center;
 }
+
+p{
+  text-align: center;
+  color:cornflowerblue;
+  background-color:moccasin;
+}
+
+body{
+  background-color:cornflowerblue;
+}
