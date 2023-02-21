@@ -1,15 +1,28 @@
 h1 {
-color: cornflowerblue;
-background-color:moccasin;
-text-align: center;
+  color:cornflowerblue;
+  background-color: moccasin;
+  text-align: center;
+  display: block;
+}
+
+body {
+  background-color: cornflowerblue;
 }
 
 p{
+  color: cornflowerblue;
+  background-color: moccasin;
   text-align: center;
-  color:cornflowerblue;
-  background-color:moccasin;
+  display: block;
+  border-radius: 15px;
+  font-size: large;
 }
 
-body{
-  background-color:cornflowerblue;
+li{
+  color: cornflowerblue;
+  background-color: moccasin;
+  display: block;
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
 }
