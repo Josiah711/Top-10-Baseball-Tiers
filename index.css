@@ -1,17 +1,24 @@
 h1 {
-  color:cornflowerblue;
-  background-color: moccasin;
+  color:royalblue;
+  background-color:white;
   text-align: center;
   display: block;
 }
 
-body {
-  background-color: cornflowerblue;
+p{
+color:royalblue;
+background-color:white;
+text-align: center;
+
 }
 
-p{
-  color: cornflowerblue;
-  background-color: moccasin;
+body {
+  background-color:royalblue;
+}
+
+header{
+  color:royalblue;
+  background-color:white;
   text-align: center;
   display: block;
   border-radius: 15px;
@@ -19,8 +26,8 @@ p{
 }
 
 li{
-  color: cornflowerblue;
-  background-color: moccasin;
+  color:royalblue;
+  background-color:white;
   display: block;
   text-align: center;
   margin-left: 20%;
