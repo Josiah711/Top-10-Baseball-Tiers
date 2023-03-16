@@ -35,6 +35,23 @@ li{
 }
 
 img{
-  display:flex: ;
-  width:150px
+ width: 20%;
+ display: block;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+footer{
+  text-align: center;
+  color: royalblue;
+  background-color: white;
+}
+
+selector{
+  display: block;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
 }
